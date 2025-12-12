@@ -20,3 +20,6 @@ A fully structured research-to-design pipeline that analyzes Pepagora’s market
 
 # 🗂️2. B2B Sales & Growth Remote Internship 
 (Ongoing - will update later)
+
+# 🗂️3. Business Development Remote Internship
+(Ongoing - will update later)
