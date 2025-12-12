@@ -12,11 +12,11 @@ This project was undertaken as part of an internship under the **Excelerate** we
 A fully structured research-to-design pipeline that analyzes Pepagora’s market position, maps user experiences, compares industry standards, and proposes an optimized onboarding framework backed by insights
 
 # 💡 Skills Gained
-•Market and platform analysis
-•Persona creation & user journey mapping
-•UX evaluation and competitor benchmarking
-•Onboarding flow design & communication strategy
-•Professional reporting, synthesis, and presentation skills
+    •Market and platform analysis
+    •Persona creation & user journey mapping
+    •UX evaluation and competitor benchmarking
+    •Onboarding flow design & communication strategy
+    •Professional reporting, synthesis, and presentation skills
 
 # 🗂️2. B2B Sales & Growth Remote Internship 
 (Ongoing - will update later)
