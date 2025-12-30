@@ -19,7 +19,23 @@ A fully structured research-to-design pipeline that analyzes Pepagora’s market
     •Professional reporting, synthesis, and presentation skills
 
 # 🗂️2. B2B Sales & Growth Remote Internship 
-(Ongoing - will update later)
+This project was completed as part of the Excelerate internship, focusing on Pepagora’s B2B sales growth ecosystem. It covers end-to-end research across client identification, use-case development, retention analysis, competitor benchmarking, and final strategic framework design.
+
+# ╰┈➤ 📝 Steps Breakdown
+• Week 1: Potential Client Research & Identification (20 verified companies + research summary)
+• Week 2: Use Case Report, Retention Strategy, Comparative Insights Table & Reflection Note
+• Week 3: Competitor Sales Pipeline Benchmarking (IndiaMART, Alibaba, TradeIndia) + Pepagora Pipeline Model
+• Week 4: Final Strategic Sales Growth Framework & Presentation Deck (acquisition, onboarding, engagement, retention)
+
+# 🎯 Outcome
+A structured research-to-strategy workflow that identifies high-fit clients, analyses market practices, benchmarks B2B pipelines, and proposes a refined sales growth model tailored for Pepagora.
+
+# 💡 Skills Gained
+• B2B client research & qualification
+• Use-case creation & retention strategy
+• Competitor benchmarking & pipeline modelling
+• Strategic framework design & sales workflow structuring
+• Professional reporting, synthesis & presentation skills
 
 # 🗂️3. Business Development Remote Internship
 (Ongoing - will update later)
