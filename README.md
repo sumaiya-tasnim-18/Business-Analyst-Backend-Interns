@@ -42,19 +42,19 @@ This project was completed as part of the Excelerate Business Development Remote
 
 # ╰┈➤ 📝 Steps Breakdown
 
-• Week 1: Resource Ecosystem Mapping & Database Evaluation (Chinese vs International directories) + Tiered research framework
-• Week 2: Forensic Use-Case Mapping, Retention Strategy Design & Power–Interest Grid Placement (selected MNCs, PE firms & law firms including Clifford Chance and Blackstone Group)
-• Week 3: Prospective Client Shortlisting & Strategic Prioritisation (35+ verified firms with Beijing/Shanghai presence) + Relevance metrics scoring
-• Week 4: Final Database Submission (15+ MNC/PE/VC firms & 20+ law firms) + Recorded Strategic Presentation (use-case alignment, retention logic, desirability justification)
+    • Week 1: Resource Ecosystem Mapping & Database Evaluation (Chinese vs International directories) + Tiered research framework
+    • Week 2: Forensic Use-Case Mapping, Retention Strategy Design & Power–Interest Grid Placement (selected MNCs, PE firms & law firms including Clifford Chance and Blackstone Group)
+    • Week 3: Prospective Client Shortlisting & Strategic Prioritisation (35+ verified firms with Beijing/Shanghai presence) + Relevance metrics scoring
+    • Week 4: Final Database Submission (15+ MNC/PE/VC firms & 20+ law firms) + Recorded Strategic Presentation (use-case alignment, retention logic, desirability justification)
 
 # 🎯 Outcome
 A structured research-to-strategy client targeting model that filters high-value forensic advisory prospects based on regulatory exposure, cross-border activity, transaction intensity, and stakeholder power positioning—enabling focused, high-conversion business development.
 
 # 💡 Skills Gained
-• Strategic market research & secondary data validation
-• Client qualification using risk & relevance metrics
-• Power–Interest stakeholder analysis
-• Forensic advisory use-case development
-• Retention strategy design (retainer vs project-based models)
-• Executive-level presentation & structured reporting
-• Team leadership & strategic decision-making
+    • Strategic market research & secondary data validation
+    • Client qualification using risk & relevance metrics
+    • Power–Interest stakeholder analysis
+    • Forensic advisory use-case development
+    • Retention strategy design (retainer vs project-based models)
+    • Executive-level presentation & structured reporting
+    • Team leadership & strategic decision-making
